@@ -6,6 +6,6 @@ int main() {
     cout << "bence yapabiliyorum"<< endl ;
     cout << "merhaba" << endl;
     cout << "merhaba" << endl;
-    cout << "merhaba" << endl;
+    
  return 0;
 }
