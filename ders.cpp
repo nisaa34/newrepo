@@ -5,6 +5,7 @@ int main() {
     cout << "I'm learning github" << endl;
     cout << "bence yapabiliyorum"<< endl ;
     cout << "merhaba" << endl;
-    cout << " ben nisa" << endl;
+    cout << "merhaba" << endl;
+    cout << "merhaba" << endl;
  return 0;
 }
